@@ -1,0 +1,11 @@
+Name: Alex Rivera
+Summary: Senior Backend Engineer with 6 years of expertise in building scalable Python applications.
+Technical Skills:
+- Languages/Frameworks: Python, Django, FastAPI, Flask.
+- Databases: PostgreSQL (expert), Redis.
+- DevOps: Docker, Kubernetes, Jenkins.
+- Cloud: AWS (S3, EC2, Lambda, RDS).
+Experience:
+- Led a team of 4 developers in an Agile environment at TechCorp.
+- Optimized PostgreSQL queries, reducing latency by 40%.
+- Designed asynchronous microservices using Celery and Redis.

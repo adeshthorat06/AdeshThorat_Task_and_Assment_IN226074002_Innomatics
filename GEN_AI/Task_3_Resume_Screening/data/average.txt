@@ -1,0 +1,11 @@
+Name: Sam Smith
+Summary: Mid-level Developer with 3 years of experience in Python.
+Technical Skills:
+- Frameworks: Python, Flask.
+- Databases: MySQL, MongoDB.
+- Tools: Git, Docker, Heroku.
+Experience:
+- Built REST APIs for a startup using Flask.
+- Managed application deployment on Heroku.
+- Familiar with SQL but primarily worked with NoSQL databases.
+- Note: Looking to learn AWS and Kubernetes.

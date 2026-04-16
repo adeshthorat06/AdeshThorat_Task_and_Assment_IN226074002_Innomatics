@@ -1,0 +1,5 @@
+Data Scientist Role
+
+Skills: Python, Machine Learning, SQL, NLP
+Tools: TensorFlow, Scikit-learn
+Experience: 2+ years

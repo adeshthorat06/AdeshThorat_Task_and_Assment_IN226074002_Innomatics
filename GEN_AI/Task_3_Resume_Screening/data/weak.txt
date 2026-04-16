@@ -1,0 +1,10 @@
+Name: Jordan Lee
+Summary: Professional Frontend Developer specializing in UI/UX and React.
+Technical Skills:
+- Frontend: React.js, Vue.js, TypeScript, CSS3, HTML5.
+- Design: Figma, Adobe XD.
+- Backend: Minimal Node.js.
+Experience:
+- 4 years of experience building responsive web interfaces.
+- Expert in creating accessible components and design systems.
+- No experience with Python, Django, or AWS backend services.
